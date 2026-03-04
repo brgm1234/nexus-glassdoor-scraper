@@ -1,0 +1,9 @@
+{
+  "actorSpecVersion": 1,
+  "name": "nexus-glassdoor-scraper",
+  "title": "Glassdoor Scraper",
+  "description": "Crawls glassdoor.com job search, extracts title, company, location, salary, rating, easyApply, jobUrl, posted",
+  "version": "1.0.0",
+  "buildTag": "latest",
+  "environmentVariables": [],
+}
